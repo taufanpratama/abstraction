@@ -1,0 +1,2 @@
+# abstraction
+latihan_abstraction
